@@ -3,7 +3,7 @@
 ![gifFraseAleatoria](https://user-images.githubusercontent.com/59626996/131261496-ece612be-6103-444e-a854-ed8655ac2ce3.gif)
 
 # Run:
- npm install
+ npm install<br>
   yarn start
   
 #Projeto:
